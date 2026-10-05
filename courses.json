@@ -4,8 +4,9 @@
     {
       "id": "KA-COURSE-001",
       "name": "Course 001",
-      "active": true,
-      "expiry": "2026-10-07"
+      "password": "K7F2-X9QM-4R8P",
+      "expiry": "2026-10-07",
+      "active": true
     }
   ]
 }
