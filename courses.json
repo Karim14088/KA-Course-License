@@ -4,6 +4,8 @@
     {
       "id": "KA-COURSE-001",
       "name": "Course 001",
+      "password": "COURSE-2026",
+      "expiryDate": "2026-10-07",
       "active": true
     }
   ]
